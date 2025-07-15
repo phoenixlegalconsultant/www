@@ -1109,6 +1109,90 @@ i.fa.fa-paper-plane {
 	color: #FFFFFF;
 }
 
+.w3l-social ul li a i.fa.fa-linkedin {
+	height: 32px;
+	width: 32px;
+	line-height: 32px;
+	background: #FFFFFF;
+	color: #3b5998;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+}
+
+.w3l-social ul li a i.fa.fa-linkedin:hover {
+	height: 32px;
+	width: 32px;
+	line-height: 32px;
+	background: #3b5998;
+	color: #FFFFFF;
+}
+
+.w3l-social ul li a i.fa.fa-instagram {
+	height: 32px;
+	width: 32px;
+	line-height: 32px;
+	background: #FFFFFF;
+	color: #3b5998;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+}
+
+.w3l-social ul li a i.fa.fa-instagram:hover {
+	height: 32px;
+	width: 32px;
+	line-height: 32px;
+	background: #3b5998;
+	color: #FFFFFF;
+}
+
+.w3l-social ul li a i.fa.fa-youtube {
+	height: 32px;
+	width: 32px;
+	line-height: 32px;
+	background: #FFFFFF;
+	color: #3b5998;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+}
+
+.w3l-social ul li a i.fa.fa-youtube:hover {
+	height: 32px;
+	width: 32px;
+	line-height: 32px;
+	background: #3b5998;
+	color: #FFFFFF;
+}
+
+.w3l-social ul li a i.fa-brands.fa-tiktok {
+	height: 32px;
+	width: 32px;
+	line-height: 32px;
+	background: #FFFFFF;
+	color: #3b5998;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+}
+
+.w3l-social ul li a i.fa-brands.fa-tiktok:hover {
+	height: 32px;
+	width: 32px;
+	line-height: 32px;
+	background: #3b5998;
+	color: #FFFFFF;
+}
+
 .w3l-social ul li a i.fa.fa-twitter {
 	height: 32px;
 	width: 32px;
